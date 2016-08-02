@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='androguard',
+    name='atx-androguard',
     description='Androguard is a full python tool to play with Android files.',
     version='3.0',
     packages=find_packages(),

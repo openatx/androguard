@@ -2,6 +2,13 @@
 
 [![Build Status](https://travis-ci.org/androguard/androguard.svg?branch=master)](https://travis-ci.org/androguard/androguard)
 
+Fork of <https://github.com/androguard/androguard>
+
+## How to install
+```sh
+pip install atx-androguard
+```
+
 ## Features
 
 Androguard is a full python tool to play with Android files.
